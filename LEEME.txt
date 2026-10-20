@@ -1,0 +1,5 @@
+ARCHIVO 13 — Halloween v2
+
+Abrí index.html en un navegador moderno. No necesita instalación ni servidor.
+
+Incluye catálogo con 36 expedientes, búsqueda y filtros, modal de lectura, estética de Halloween, textura de estática/CRT regulable, degradación visual progresiva y avisos anómalos al cerrar relatos. Las historias SCP son ficción derivada no oficial.
